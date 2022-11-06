@@ -1,0 +1,5 @@
+project: xgen
+target: xgen
+cmds:
+  - cmd: /xgen -i @@ -o /dev/null -l Go
+    env: {}
